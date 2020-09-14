@@ -2,6 +2,8 @@
 
 ## A repo for a school project
 
+## Miguel Frias Mayo A01024080
+
 ---
 Licence
 ---
